@@ -27,5 +27,4 @@ On Linux/Mac:
 gcc rtos_scheduler.c -o rtos_scheduler
 ./rtos_scheduler
 
-<img width="733" height="804" alt="image" src="https://github.com/user-attachments/assets/2c04c90d-4bad-47e2-9b7d-ef3dd3354f73" />
 
