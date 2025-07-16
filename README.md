@@ -5,7 +5,7 @@ Runs entirely on a laptop — no hardware needed — to demonstrate embedded sof
 
 ---
 
-## 📋 Features
+##  Features
 ✅ Simulates multiple tasks (as functions).  
 ✅ Supports two scheduling algorithms:
 - Round-Robin
@@ -15,13 +15,13 @@ Runs entirely on a laptop — no hardware needed — to demonstrate embedded sof
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 ### 🛠 Prerequisites
 - C compiler (`gcc`, `clang`, etc.)
 - Git (optional, for version control)
 
-### 🧰 Build
+###  Build
 On Linux/Mac:
 ```bash
 gcc rtos_scheduler.c -o rtos_scheduler
